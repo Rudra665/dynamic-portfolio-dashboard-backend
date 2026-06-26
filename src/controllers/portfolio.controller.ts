@@ -80,7 +80,7 @@ export const getPortfolio = async (req: Request, res: Response) => {
 			totalGainLoss: totalPresentValue - totalInvestment,
 		};
 
-		res.json({ response });
+		res.json(response);
 	} catch (error) {
 		console.error("Error fetching portfolio:", error);
 		res.status(500).json({
