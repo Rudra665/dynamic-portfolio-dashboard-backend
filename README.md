@@ -66,6 +66,14 @@ This opens a browser UI at `http://localhost:51212/`.
 npm run dev
 ```
 
+### Production setup + build
+
+When you want to prepare the database and produce the production build in one go, run:
+
+```bash
+npm run build:prod
+```
+
 The server starts on `http://localhost:3001`. Confirm it's running:
 
 ```bash

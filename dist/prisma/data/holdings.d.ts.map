@@ -1,0 +1,1 @@
+{"version":3,"file":"holdings.d.ts","sourceRoot":"","sources":["../../../prisma/data/holdings.ts"],"names":[],"mappings":"AAKA,MAAM,WAAW,UAAU;IAC1B,SAAS,EAAE,MAAM,CAAC;IAClB,MAAM,EAAE,MAAM,CAAC;IACf,aAAa,EAAE,MAAM,CAAC;IACtB,GAAG,EAAE,MAAM,CAAC;IACZ,YAAY,EAAE,MAAM,CAAC;CACrB;AAED,eAAO,MAAM,QAAQ,EAAE,UAAU,EAkMhC,CAAC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"holding.d.ts","sourceRoot":"","sources":["../../../src/types/holding.ts"],"names":[],"mappings":"AAGA,MAAM,WAAW,eAAe;IAC/B,EAAE,EAAE,MAAM,CAAC;IACX,SAAS,EAAE,MAAM,CAAC;IAClB,MAAM,EAAE,MAAM,CAAC;IACf,aAAa,EAAE,MAAM,CAAC;IACtB,GAAG,EAAE,MAAM,CAAC;IACZ,YAAY,EAAE,MAAM,CAAC;IACrB,UAAU,EAAE,MAAM,CAAC;IACnB,gBAAgB,EAAE,MAAM,CAAC;CACzB"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"googleSymbol.js","sourceRoot":"","sources":["../../../src/lib/googleSymbol.ts"],"names":[],"mappings":";;AAEA,sDAGC;AALD,gFAAgF;AAChF,4EAA4E;AAC5E,SAAgB,qBAAqB,CAAC,YAAoB;IACzD,MAAM,gBAAgB,GAAG,OAAO,CAAC,IAAI,CAAC,YAAY,CAAC,CAAC;IACpD,OAAO,gBAAgB,CAAC,CAAC,CAAC,GAAG,YAAY,MAAM,CAAC,CAAC,CAAC,GAAG,YAAY,MAAM,CAAC;AACzE,CAAC"}
